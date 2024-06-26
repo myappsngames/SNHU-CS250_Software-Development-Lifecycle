@@ -1,2 +1,2 @@
-# SNHU-CS250-Journal
+# SNHU CS250: Software Development Lifecycle Portfolio Project
 Sprint Review and Retrospective deliverable
