@@ -1,5 +1,5 @@
-# SNHU CS250: Software Development Lifecycle Portfolio Project
-This portfolio project showcases a Sprint Review and Retrospective deliverable for the final project of the CS-250: Software Development and Design course taken at Southern New Hampshire University. By taking on the role of the Scrum Master I created a Sprint Review and Retrospective to summarize, analyze, and draw conclusions on how a Scrum-Agile approach benefited the development of the SNHU Travel application.
+# SNHU CS250: Software Development Lifecycle Journal
+Showcases a Sprint Review and Retrospective deliverable
 ## Reflection
 
 #### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
